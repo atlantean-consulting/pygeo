@@ -11,6 +11,6 @@ Simply launch it with `python3 geomancy.py`, enter your question, and ponder the
 
 Note: It wasn't feasible to fit this into the standard 80-column terminal. You'll need to expand the terminal window to ~140 characters to fit everything.
 
-This is v1.0 - in v1.1, we'll add a House Chart.
+This is v1.1 - Now with house charts!
 
 Valeo Valui Valiturus
